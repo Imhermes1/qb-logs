@@ -1,9 +1,9 @@
 Config = {}
 
 Config.Webhooks = {
-    ['default'] = '',
+    ['default'] = 'https://discord.com/api/webhooks/898516811920846849/Bz5SMvFOpahxKSr-swClTyybpinEg9jGB9xoziWcylLDWCVXgK17e4lzJUqRnaEYCIpO',
     ['testwebhook'] = '',
-    ['playermoney'] = '',
+    ['playermoney'] = 'https://discord.com/api/webhooks/906849095111561247/vD1w9XIloW6ZpQGv8-DZ6Kh2tFV6ULNDp_QI-eodoi7xacCFhhKm2DB5n29zzzsWvYVG',
     ['playerinventory'] = '',
     ['robbing'] = '',
     ['cuffing'] = '',
@@ -19,7 +19,7 @@ Config.Webhooks = {
     ['storerobbery'] = '',
     ['bankrobbery'] = '',
     ['powerplants'] = '',
-    ['death'] = '',
+    ['death'] = 'https://discord.com/api/webhooks/906848841888825345/ENhchBVEBzXBj8IWak_tW211BeN5OomL5W-atDEEuo9jgQyQABajYI4O1y5JAUVMDZG0',
     ['joinleave'] = '',
     ['ooc'] = '',
     ['report'] = '',
@@ -37,7 +37,6 @@ Config.Webhooks = {
     ['traphouse'] = '',
     ['911'] = '',
     ['palert'] = '',
-    ['house'] = '',
 }
 
 Config.Colors = { -- https://www.spycolor.com/
